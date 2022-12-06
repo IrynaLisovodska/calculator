@@ -31,6 +31,7 @@
     font-size: 40px;
     padding: 0 auto;
     text-align: center;
+    background-color: rgba(11, 1, 52, 0.46);
 }
 .sign {
     border-radius: 50%;
@@ -41,6 +42,7 @@
     font-size: 50px;
     padding: 0 auto;
     text-align: center;
+    background-color: rgba(11, 1, 52, 0.46);
 }
 .sign-delete {
     border-radius: 50%;
@@ -51,4 +53,5 @@
     font-size: 50px;
     padding: 0 auto;
     text-align: center;
+    background-color: rgba(11, 1, 52, 0.46);
 }

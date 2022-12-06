@@ -1,3 +1,9 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    margin: 0 auto;
+}
 .calculator {
     max-width: 60%;
     margin: 0 auto;
